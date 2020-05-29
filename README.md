@@ -1,2 +1,2 @@
 # Jump-nRun
-A Jump´n RUn
+A Jump´n Run
